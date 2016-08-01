@@ -1,0 +1,259 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>CBSE 12 Results </title>
+<style type="text/css" media="print">
+.dontprintme { display: none; }
+</style>
+<script language="javascript">
+&lt;!--
+function visitSite(url){
+mywin=window.open("","goidisplaywin","width=600,height=350,screenX=100,screenY=0,scrollbars=yes,menubar=yes,resizable=yes,status=yes,toolbar=yes,directories=no,location=yes");
+mywin.location.href=url;
+mywin.focus();
+}
+//--&gt;
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#ffffff" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#3333cc" vlink="#3333cc" alink="#3333cc">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#373abe">
+  <tbody><tr align="left" valign="top"> 
+    <td width="5%"><img height="69" src="../images/cbse1.gif" width="67" /></td>
+    <td width="95%" valign="center"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="right" valign="bottom"> 
+          <td><font size="2" face="Arial, Helvetica, sans-serif" color="#ffffff"><b>
+<font size="3">http://cbseresults.nic.in</font></b></font></td>
+        </tr>
+        <tr> 
+          <td><img height="31" src="../images/cbse2.gif" width="263" /></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#373abe" height="30">
+  <tbody><tr> 
+    <td><img height="26" src="../images/cbse3.gif" width="408" /><font size="3" face="Arial, Helvetica, sans-serif"><font color="#ffffff"><b><font size="4"> 
+      </font></b></font> </font></td>
+    <td> 
+      <div align="right"><font size="3" face="Arial, Helvetica, sans-serif"><font color="#ffffff"><b><font size="4"> 
+        Examination Results 2016</font></b></font> </font></div>
+    </td>
+  </tr>
+</tbody></table><div align="right"><strong> 
+Brought to you by <a href="javascript:visitSite('http://home.nic.in')">National Informatics Centre<br /><br /></a></strong></div>
+
+<br />
+
+
+
+
+
+
+<center>
+  <font color="#3333CC" size="3" face="Arial, Helvetica, sans-serif"><b>Senior School Certificate Examination (Class XII) Results 2016</b>
+</font>
+</center>
+<br />
+<div align="center">
+<table width="75%" align="center"><tbody><tr><td align="right">
+<!--<a href="#" onclick="javascript:window.print();return false" class="dontprintme">Print this page
+</a> -->
+<input type="button" name="Print" value="Print" onclick="javascript:window.print();return false" class="dontprintme" />
+</td></tr></tbody></table>
+
+
+<table width="75%" align="center">
+<tbody><tr>
+<td><strong><font face="Arial" size="2">Roll No:</font></strong></td>
+<td><font face="Arial" size="2"> 2627832</font></td>
+</tr>
+<tr>
+<td><font size="2"><strong><font face="Arial">Name:</font><br /></strong></font></td>
+<td><font face="Arial" size="2"> <b>ROHAN BISARIA</b></font></td>
+</tr>
+<tr>
+<td><strong><font face="Arial" size="2">Mother's Name:</font></strong></td>
+<td><font face="Arial" size="2"> KALPNA BISARIA</font></td>
+</tr>
+<tr>
+<td><strong><font face="Arial" size="2">Father's Name:</font></strong></td>
+<td><font face="Arial" size="2">ALOK BISARIA</font></td>
+</tr>
+</tbody></table>
+
+<br />
+<div align="center"><center>
+<table border="1" cellpadding="2" cellspacing="0" width="75%" bordercolor="#000000">
+
+  <tbody><tr bgcolor="mediumblue">
+    <td width="20%"><p align="center"><font face="Arial" color="white" size="2"><strong>SUB CODE</strong></font></p></td>
+    <td width="26%"><p align="left"><font face="Arial" color="white" size="2"><strong>SUB NAME</strong></font></p></td>
+    <td width="13%"><p align="left"><font face="Arial" color="white" size="2"><strong>THEORY</strong></font></p>  </td>
+    <td width="10%"><p align="left"><font face="Arial" color="white" size="2"><strong>PRACTICAL</strong></font></p> </td>
+    <td width="17%"><p align="left"><font face="Arial" color="white" size="2"><strong>MARKS</strong></font></p></td>
+    <td width="14%"><p align="center"><font face="Arial" color="white" size="2"><strong>GRADE</strong></font></p></td>
+  </tr>
+
+
+  <tr bgcolor="#ffffff">
+    <td align="middle"><font face="Arial" size="2"> 301</font></td>
+    <td align="left"><font face="Arial" size="2">ENGLISH CORE</font></td>
+    <td align="left"><font face="Arial" size="2">087</font></td>
+    <td align="left"><font face="Arial" size="2"></font></td>
+    <td align="left"><font face="Arial" size="2">087    </font></td>
+    <td align="middle"><font face="Arial" size="2">A2</font></td>
+  </tr>
+
+  <tr bgcolor="#e6e6fa">
+    <td align="middle"><font face="Arial" size="2">041</font></td>
+    <td align="left"><font face="Arial" size="2">MATHEMATICS</font></td>
+    <td align="left"><font face="Arial" size="2">051</font></td>
+    <td align="left"><font face="Arial" size="2"></font></td>
+    <td align="left"><font face="Arial" size="2">051    </font></td>
+    <td align="middle"><font face="Arial" size="2">C1</font></td>
+  </tr>
+
+  <tr bgcolor="#ffffff">
+    <td align="middle"><font face="Arial" size="2">042</font></td>
+    <td align="left"><font face="Arial" size="2">PHYSICS</font></td>
+    <td align="left"><font face="Arial" size="2">047</font></td>
+    <td align="left"><font face="Arial" size="2">026</font></td>
+    <td align="left"><font face="Arial" size="2">073    </font></td>
+    <td align="middle"><font face="Arial" size="2">B2</font></td>
+  </tr>
+
+  <tr bgcolor="#e6e6fa">
+    <td align="middle"><font face="Arial" size="2">043</font></td>
+    <td align="left"><font face="Arial" size="2">CHEMISTRY</font></td>
+    <td align="left"><font face="Arial" size="2">044</font></td>
+    <td align="left"><font face="Arial" size="2">030</font></td>
+    <td align="left"><font face="Arial" size="2">074    </font></td>
+    <td align="middle"><font face="Arial" size="2">B2</font></td>
+  </tr>
+
+  <tr bgcolor="#ffffff">
+    <td align="middle"><font face="Arial" size="2">030</font></td>
+    <td align="left"><font face="Arial" size="2">ECONOMICS</font></td>
+    <td align="left"><font face="Arial" size="2">089</font></td>
+    <td align="left"><font face="Arial" size="2"></font></td>
+    <td align="left"><font face="Arial" size="2">089    </font></td>
+    <td align="middle"><font face="Arial" size="2">A2</font></td>
+  </tr>
+
+  <tr bgcolor="#ffffff">
+    <td align="middle"><font face="Arial" size="2">500</font></td>
+    <td align="left"><font face="Arial" size="2">WORK EXPERIENCE</font></td>
+    <td align="left"> </td>
+    <td align="left"> </td>
+    <td align="left"><font face="Arial" size="2">---</font></td>
+    <td align="middle"><font face="Arial" size="2">A1</font></td>
+  </tr>
+  
+  <tr bgcolor="#e6e6fa">
+    <td align="middle"><font face="Arial" size="2">502</font></td>
+    <td align="left"><font face="Arial" size="2">PHY &amp; HEALTH EDUCA</font></td>
+    <td align="left"> </td>
+    <td align="left"> </td>
+    <td align="left"><font face="Arial" size="2">---</font></td>
+    <td align="middle"><font face="Arial" size="2">A1</font></td>
+  </tr>
+   
+  <tr bgcolor="#ffffff">
+    <td align="middle"><font face="Arial" size="2">503</font></td>
+    <td align="left"><font face="Arial" size="2">GENERAL STUDIES</font></td>
+    <td align="left"> </td>
+    <td align="left"> </td>
+    <td align="left"><font face="Arial" size="2">---</font></td>
+    <td align="middle"><font face="Arial" size="2">A2</font></td>
+  </tr>  
+  
+   <tr bgcolor="#e6e6fa">
+          <td colspan="6"><font face="Arial" size="2">  Additional Subject</font></td>
+   </tr>
+   <tr>
+    <td align="middle"><font face="Arial" size="2">048</font> </td>
+    <td align="left"><font face="Arial" size="2">PHYSICAL EDUCATION</font></td>
+    <td align="left"><font face="Arial" size="2">047</font></td>
+    <td align="left"><font face="Arial" size="2">030</font></td>
+    <td align="left"><font face="Arial" size="2">077     </font></td>
+    <td align="middle"><font face="Arial" size="2">B1</font></td>
+  </tr>
+  
+  
+
+
+  <tr bgcolor="mediumblue">
+  <td> </td>
+  <td colspan="5"><b><font face="Arial" size="2" color="white">Result:   PASS
+    <!-- : --> 
+    
+  </font></b> <b><font face="Arial" size="2" color="white">  </font></b></td>
+  </tr>
+  </tbody></table>
+  <br /><br />
+ <table width="70%" border="1" cellspacing="0" cellpadding="5" align="center">
+  <tbody>
+ <tr>
+  <td align="center">
+  <b><font color="#ff0000">Get Your Digital Mark Sheet!</font></b></td></tr>
+<tr><td>As a new initiative of CBSE, your digital mark sheet will also be available in DigiLocker. Your DigiLocker username and password will be sent via SMS on your mobile number registered with CBSE. You can access your mark sheet as soon as you receive your username and password. 
+DigiLocker (<a href="https://digilocker.gov.in" target="_blank">https://digilocker.gov.in</a>) is a Government of India initiative under Digital India.
+</td></tr>
+  
+  </tbody></table>
+
+</center>
+</div>
+
+
+<p align="center"><b><a href="cbse1216.htm"><font size="3" color="#3333cc">Check Another Result</font></a></b></p>
+<p align="center"><font face="Arial"><b>Note: Abbreviations used against Result:</b><br />
+  N.E. - Not Eligibile, R.W. - Result Withheld, R.L. - Result Later, ABST - Absent<br />
+  COMP – Compartment, UFM - Unfairmeans, XXXX - Improvement, SJD - Subjudice</font>
+</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+  <tr> 
+    <td><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><b>
+      <div align="center">
+      <table border="0" cellpadding="0" cellspacing="0" width="75%">
+        
+        <tbody><tr>
+          <td><font color="white">.</font></td></tr>
+        
+        <tr>
+          <td>
+            <p align="center"><font size="2"><font color="#000000" face="Arial, Helvetica, sans-serif"><b>Disclaimer:</b> Neither NIC nor 
+            CBSE is responsible for any inadvertent error that may have crept in 
+            the results being published on NET. The results published on net are 
+            for immediate information to the examinees. These cannot be treated 
+            as original mark sheets. Original mark sheets have been issued by 
+            the Board 
+      separately</font></font></p></td></tr></tbody></table></div></b>
+        </font>
+      <div align="center"><font color="#000000" face="Arial, Helvetica, sans-serif" size="2">    
+                   
+           .<br />
+        <br /></font></div></td></tr>
+  <tr bgcolor="#c2dbf8" align="middle" valign="baseline"> 
+    <td height="23"> 
+      <div align="center"> 
+      <font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><b>
+      <a href="javascript:visitSite('http://home.nic.in')">Designed, 
+        Developed and Hosted by National 
+        Informatics Centre</a>
+       </b></font></div>
+    </td>
+  </tr></tbody></table></div>
+
+
+
+
+
+
+
+
+</body></html>
