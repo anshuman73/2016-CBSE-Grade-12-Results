@@ -1,7 +1,7 @@
-## COPYRIGHT Anshuman Agarwal of http://anshuman73.github.io
+###COPYRIGHT Anshuman Agarwal of http://anshuman73.github.io
 
 
-** Released under Apache License **
+**Released under Apache License**
 
 
 Copyright 2016, Anshuman Agarwal (anshuman73)
