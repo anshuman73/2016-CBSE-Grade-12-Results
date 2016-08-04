@@ -133,6 +133,7 @@ def main():
 
 	print count, 'valid records downloaded, saving everything to database...'
 	database_conn.commit()
+	database_conn.close()
 
 	print '\nClosing the Simulated Browser'
 	driver.close()
